@@ -10,5 +10,5 @@ Skills: Python (Kera, Sklearn) / Java
 - 🔭 I’m currently working on Developing an AI-based chatbot system for Virtual University using Deep learning and Machine learning 
 - 👯 I’m looking to collaborate on  Data Science Research Projects 
 - 📫 How to reach me: sammanarooj12@gmail.com 
-- ⚡ Fun fact: Movies, Basketball 
+- ⚡ Fun fact: Movies 
 
