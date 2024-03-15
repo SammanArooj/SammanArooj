@@ -1,5 +1,4 @@
-### Hi there 👋, Samman Arooj here          
-![Senior School Teacher -SST(CS) BS-16 at SED(School Education Department ](https://github.com/SammanArooj/SammanArooj/blob/main/my-passport-photo.jpg)
+### Hi there 👋, Samman Arooj here         
  
 I am an experienced computer teacher with a demonstrated history of working in education industry. I am a Software Engineer with skills in python, Matlab,Java and machine learning.  
 With extensive worning. I am also a Senior School Teacher at Grade 12 School(higher Secondary School) of Pakistan.
