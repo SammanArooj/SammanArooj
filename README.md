@@ -1,7 +1,7 @@
 ### Hi there 👋, Samman Arooj here         
  
 I am an experienced computer teacher with a demonstrated history of working in education industry. I am a Software Engineer with skills in python, Matlab,Java and machine learning.  
-With extensive worning. I am also a Senior School Teacher at Grade 12 School(higher Secondary School) of Pakistan.
+I am also a Senior School Teacher at Grade 12 School(higher Secondary School) of Government of Pakistan.
 
 
 
